@@ -17,4 +17,13 @@ Table has information about elements up Zirconium (40). Users can click on the e
 - Saugat K.C 
 - Yash Palikhe
 
+![screenshots](periodic%20table%20screenshots%2Fhomepage.png)
+
+![screenshots](periodic%20table%20screenshots%2Fperiodic%20table%20main.png)
+
+![screenshots](periodic%20table%20screenshots%2Felement%20info.png)
+
+![screenshots](periodic%20table%20screenshots%2Fmetal%20group%20info.png)
+
+
 
