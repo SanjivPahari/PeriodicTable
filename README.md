@@ -7,7 +7,7 @@ The website makese easier for students and teachers to study periodic table
 
 Table has information about elements up Zirconium (40). Users can click on the element or group and views its details. 
 
-Check out Live Preview (https://htmlpreview.github.io/?https://raw.githubusercontent.com/SanjivPahari/PeriodicTable/main/index.html)
+[Check out Live Preview](https://htmlpreview.github.io/?https://raw.githubusercontent.com/SanjivPahari/PeriodicTable/main/index.html)
 
 #### Developed: October 2016
 
